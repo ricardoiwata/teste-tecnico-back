@@ -12,6 +12,7 @@ API RESTful para gerenciamento de usuários, desenvolvida com **Node.js**, **Exp
 - [PostgreSQL](https://www.postgresql.org/)
 - [CORS](https://www.npmjs.com/package/cors)
 - [Body-Parser](https://www.npmjs.com/package/body-parser)
+- [pg](https://www.npmjs.com/package/pg)
 
 ---
 
