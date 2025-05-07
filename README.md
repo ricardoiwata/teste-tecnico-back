@@ -30,6 +30,7 @@ Antes de iniciar, você precisa ter instalado:
 1. **Clone o repositório:**
 
 git clone https://github.com/ricardoiwata/teste-tecnico-back.git
+
 Acesse o diretório do projeto:
 
 cd teste-tecnico-back
